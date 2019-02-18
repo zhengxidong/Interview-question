@@ -1,2 +1,2 @@
 # Interview-question
-面试题:https://github.com/zhengxidong/Interview-question/wiki
+面试题:https://github.com/zhengxidong/interview-question/wiki
